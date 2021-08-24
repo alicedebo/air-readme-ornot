@@ -23,7 +23,7 @@ function generateMarkdown(data) {
   ${renderSection(data.license)}
   ## Contributors 😃
   ${data.contributors}
-  Contact me at ${data.email}
+  Would you like to contribute? Contact me at ${data.email}
   ## Tests 🧪
   To run tests, run these commands:
   \`\`\`
