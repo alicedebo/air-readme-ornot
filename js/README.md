@@ -1,9 +1,9 @@
-# Read me or NOT
-  ![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
+# kdsjfkds
+  ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   ## Github URL 🌐
   [alicedebo](https://github.com/alicedebo/)
   ## Description 📝
-  description of my project. Iw ould normally type lorem here 
+  lsdkjfkdl
   ## Table of Contents 🗒
   * [Installations](#dependencies)
   * [Usage](#usage)
@@ -18,14 +18,14 @@
   npm i
   ```
   ## Usage 🏆
-  use this repo wisely, young juan
+  jd
   ## License 📛
-    Copyright © GPL3.0. All rights reserved. 
+    Copyright © MIT. All rights reserved. 
     
-    Licensed under the GPL3.0 license.
+    Licensed under the MIT license.
   ## Contributors 😃
-  me, myself and i
-  Contact me at allierichardel@aol.com
+  d
+  Contact me at ldkf
   ## Tests 🧪
   To run tests, run these commands:
   ```
